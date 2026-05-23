@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a 19 year old student current pursuing a diploma in Business and Financial Technology. My focus currently revolves around school projects, after which, I'd pivot my focus to several personal projects.
-
+Dw I'm ghosting rn
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-wee-7223ba268/) 
